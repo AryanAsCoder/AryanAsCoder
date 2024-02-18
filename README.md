@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React Native<br>🎯 Goals: Software developer</p>
+<p align="left">📚 I'm currently learning React Native<br>🎯 Goals: Want to build own Software Agency<br>Software developer 🖥️💻: Creates, codes, and innovates digital solutions.</p>
 
 ###
 
